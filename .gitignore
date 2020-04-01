@@ -1,0 +1,7 @@
+cloud2020/.idea/vcs.xml
+cloud2020/cloudalibaba-provider-payment9001/target/classes/application.yml
+cloud2020/cloudalibaba-provider-payment9001/target/classes/com/demo/springcloud/Payment9001.class
+cloud2020/cloudalibaba-provider-payment9001/target/
+cloud2020/cloudalibaba-consumer-nacos-order83/target/
+*.iml
+cloud2020/.idea/

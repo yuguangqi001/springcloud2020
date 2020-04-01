@@ -21,6 +21,8 @@
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8004-zk" />
         <module name="cloud-provider-payment8006-consul" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="cloudalibaba-provider-payment9001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +41,8 @@
       <module name="cloud-provider-payment8004-zk" target="1.8" />
       <module name="cloud-provider-payment8006-consul" target="1.8" />
       <module name="cloud2020" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
+      <module name="cloudalibaba-provider-payment9001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
