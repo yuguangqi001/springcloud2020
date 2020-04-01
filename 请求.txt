@@ -42,6 +42,9 @@ http://localhost:8001/payment/hystrix/timeout/1
 
 ======================nacos=======================
 http://localhost:9001/payment/nacos/1
+http://localhost:9002/payment/nacos/3
+
+http://localhost:83/consumer/payment/nacos/3
 
 
 
