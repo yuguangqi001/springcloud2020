@@ -26,5 +26,4 @@ public class OrderNacosController {
         return restTemplate.getForObject(serverURL+"/payment/nacos/"+id,String.class);
     }
 
-
 }

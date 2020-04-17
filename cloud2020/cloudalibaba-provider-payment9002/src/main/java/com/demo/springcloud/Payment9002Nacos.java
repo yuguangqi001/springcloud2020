@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class Payment9001 {
+public class Payment9002Nacos {
 
     public static void main(String[] args) {
-        SpringApplication.run(Payment9001.class, args);
+        SpringApplication.run(Payment9002Nacos.class, args);
     }
 }
 

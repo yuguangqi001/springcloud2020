@@ -46,6 +46,9 @@ http://localhost:9002/payment/nacos/3
 
 http://localhost:83/consumer/payment/nacos/3
 
+======================nacos-config=======================
+http://localhost:3377/config/info
+
 
 
 
