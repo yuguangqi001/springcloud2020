@@ -50,6 +50,10 @@ http://localhost:83/consumer/payment/nacos/3
 http://localhost:3377/config/info
 
 
+======================sentinel=======================
+http://localhost:8401/testA
+http://localhost:8401/testB
+
 
 
 
