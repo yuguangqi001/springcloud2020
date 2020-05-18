@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd0e664a-9cb6-4499-8f1b-aa828ec66d97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/demo/springcloud/controller/FlowLimitController.java" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/demo/springcloud/controller/FlowLimitController.java" />
-    </list>
+    <list default="true" id="dd0e664a-9cb6-4499-8f1b-aa828ec66d97" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
@@ -196,7 +194,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -632,15 +630,15 @@
       <workItem from="1587882221824" duration="2791000" />
       <workItem from="1587953608810" duration="5604000" />
       <workItem from="1588747621850" duration="650000" />
-      <workItem from="1589787032603" duration="3118000" />
+      <workItem from="1589787032603" duration="3697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88007000" />
+    <option name="totallyTimeSpent" value="88586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
